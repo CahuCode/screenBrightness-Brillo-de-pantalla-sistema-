@@ -3,4 +3,4 @@
  
  # Funcionamiento
  
- ![Image text](https://drive.google.com/file/d/1D4BjOzXQZQWLkbiGg8nyjcI4U8Jt1Il0/view?usp=sharing)
+ ![Image text](https://github.com/CahuCode/screenBrightness-Brillo-de-pantalla-sistema-/blob/bac97f657c6480000075651667b762e8e1b42370/app/src/main/res/drawable/brillopantalla.jpg)
